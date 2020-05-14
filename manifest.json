@@ -1,0 +1,11 @@
+{
+  "name": "Confluent Internal Search",
+  "version": "1.0",
+  "omnibox": { "keyword": "c" },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "description": "Search common internal tools within Confluent",
+  "manifest_version": 2
+}
