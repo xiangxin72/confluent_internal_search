@@ -9,7 +9,7 @@
 * 'Confluent Internal Search' is now installed and shown
 
 # How to use
-* At the input box (omnibox) of Chrome, type keyword 'c' followed by a tab or space
+* At the input box (omnibox) of Chrome, type keyword `c` followed by a `tab` or `space`
 * Extention is now activated and you can type the following commands to trigger correponding actions
   * `j`, `jira` - navigate to jira ticket (e.g. `j ST-123`)
   * `wd`, `workday` - search on workday (e.g. `wd Xin Xiang`)
