@@ -1,6 +1,6 @@
 # confluent_internal_search
 
-# Installation
+# Install
 * Check out the code
 * Within Chrome, go to chrome://extensions/
 * Make sure 'Developer mode' (at upper right corner) is switched on
